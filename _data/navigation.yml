@@ -1,7 +1,0 @@
-main:
-  - title: "Posts"
-    url: /archives/
-  - title: "Categories"
-    url: /categories/
-  - title: "Slides"
-    url: /slides/
